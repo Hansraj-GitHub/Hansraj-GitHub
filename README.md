@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | MERN Stack Enthusiast |  
 
-Experienced **Full Stack Developer** with a strong foundation in **React, Node.js, Express.js, and MongoDB**. Passionate about **building scalable applications**, optimizing performance, and **exploring AI/ML technologies**. I enjoy tackling complex problems, learning new skills, and sharing knowledge with the developer community.
+Full Stack Developer** with a strong foundation in **React, Node.js, Express.js, and MongoDB**. Passionate about **building scalable applications**, optimizing performance, and **exploring AI/ML technologies**. I enjoy tackling complex problems, learning new skills, and sharing knowledge with the developer community.
 Always eager to learn and adopt new technologies, I stay updated with the latest trends in the tech world.
 ---
 
@@ -29,13 +29,15 @@ Always eager to learn and adopt new technologies, I stay updated with the latest
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Hansraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hansraj-Github&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hansraj-Github&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hansraj-Github&theme=tokyonight)](https://github.com/Hansraj-Github)
 
