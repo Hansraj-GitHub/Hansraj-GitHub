@@ -43,8 +43,6 @@ Always eager to learn and adopt new technologies, I stay updated with the latest
 
 ---
 
-## 📌 Most Used Languages  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansraj-Github&layout=compact&theme=tokyonight)](https://github.com/Hansraj-Github)
 
 ---
